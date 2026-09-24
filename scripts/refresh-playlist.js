@@ -2,7 +2,7 @@ var fs = require("fs");
 var https = require("https");
 var path = require("path");
 
-var PLAYLIST_ID = "PL7bU9mtR4VuCsaFjk5VBO8gWRd7pkzqrO";
+var PLAYLIST_ID = "PLZgTkNmA_H4I&si=vdD49aN58jK7aUKL";
 var FEED_URL = "https://www.youtube.com/feeds/videos.xml?playlist_id=" + encodeURIComponent(PLAYLIST_ID);
 var OUT = path.resolve(__dirname, "..", "playlist.json");
 
