@@ -1,29 +1,29 @@
 {
-  "playlistId": "PL7bU9mtR4VuCsaFjk5VBO8gWRd7pkzqrO",
-  "title": "Meta Display App",
-  "channel": "Chris Guitarte",
-  "sourceUrl": "https://youtube.com/playlist?list=PL7bU9mtR4VuCsaFjk5VBO8gWRd7pkzqrO",
-  "feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL7bU9mtR4VuCsaFjk5VBO8gWRd7pkzqrO",
-  "published": "2026-05-15T05:24:49+00:00",
-  "generatedAt": "2026-05-15T05:35:18.803Z",
+  "playlistId": "PLZgTkNmA_H4I",
+  "title": "Meta YouTube",
+  "channel": "snow wicked",
+  "sourceUrl": "https://youtube.com/playlist?list=PLZgTkNmA_H4I",
+  "feedUrl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLZgTkNmA_H4I",
+  "published": "2026-09-24T22:16:09+00:00",
+  "generatedAt": "2026-09-25T07:15:30.077Z",
   "videos": [
     {
-      "id": "igO8iyca2_g",
-      "title": "Running an AI-native engineering org",
-      "author": "Claude",
-      "published": "2026-05-08T18:50:11+00:00",
-      "updated": "2026-05-12T10:32:56+00:00",
-      "thumbnail": "https://i2.ytimg.com/vi/igO8iyca2_g/hqdefault.jpg",
-      "description": "When agentic coding goes from individual tool to org-wide default, the tool isn't the hard part...your processes are. Fiona Fung, Director of Engineering for Claude Code, walks through what broke at Anthropic (review, o..."
+      "id": "XUAWKpVVDVw",
+      "title": "Insta360 Luna Ultra Telephoto Lens and Firmware Update",
+      "author": "Air Photography",
+      "published": "2026-09-21T13:00:23+00:00",
+      "updated": "2026-09-22T09:08:58+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/XUAWKpVVDVw/hqdefault.jpg",
+      "description": "There is a firmware update available for the Insta360 Luna Ultra that brings support for their new Ultra Telephoto Lens that expands zooming by 1.5X allowing you to achieve an equivalent of 22.5X zoom level. This new fi..."
     },
     {
-      "id": "So_rId3PUpY",
-      "title": "Fellow Just Broke Home Espresso",
-      "author": "Daddy Got Coffee",
-      "published": "2026-05-02T10:00:42+00:00",
-      "updated": "2026-05-09T03:05:55+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/So_rId3PUpY/hqdefault.jpg",
-      "description": "Insanity with the Fellow Series 1, especially paired with Third Wave Water! Get 10% off a one time order at: https://thirdwavewater.com/daddygotcoffee Fellow Series 1: https://geni.us/FellowSeries1 Six weeks with the Fe..."
+      "id": "aEglZkaLSig",
+      "title": "These AI Glasses Will Change Your Life? | Meta Ray-Ban Display Review",
+      "author": "Ray-Ban | Meta",
+      "published": "2026-04-22T17:00:25+00:00",
+      "updated": "2026-08-23T20:07:15+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/aEglZkaLSig/hqdefault.jpg",
+      "description": "Subscribe to Ray-Ban Meta Youtube Channel for more tips 👉 https://www.youtube.com/@raybanmeta?sub_confirmation=1 @cedlom content bridging tech and lifestyle. In his video, he breaks down how Meta Ray-Ban Display glasse..."
     }
   ]
 }
