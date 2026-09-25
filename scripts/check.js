@@ -76,7 +76,7 @@ assert(js.indexOf("serviceWorker") !== -1, "service worker registration is prese
 assert(js.indexOf("M7lc1UVf-VE") === -1, "old YouTube test video id was removed");
 assert(!/client_secret|refresh_token|password\s*=|AIza[0-9A-Za-z_-]{20,}/.test(js), "app JS contains no Google secrets or API keys");
 
-assert(playlist.playlistId === "","PLZgTkNmA_H4I", "playlist JSON uses requested playlist id");
+assert(playlist.playlistId === "PLZgTkNmA_H4I", "playlist JSON uses requested playlist id"); 
 assert(Array.isArray(playlist.videos) && playlist.videos.length > 0, "playlist JSON contains videos");
 playlist.videos.forEach(function (video, index) {
   assert(/^[A-Za-z0-9_-]{11}$/.test(video.id), "video " + index + " has a valid YouTube id");
